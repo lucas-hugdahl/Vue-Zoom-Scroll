@@ -135,7 +135,7 @@
 </template>
 
 <script>
-import ZoomScroll from 'vue-zoom-scroll'
+import ZoomScroll from './../npm_package/src/vue-zoom-scroll.vue'
 
 
 export default {
