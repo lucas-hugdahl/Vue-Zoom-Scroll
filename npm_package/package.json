@@ -10,7 +10,7 @@
     "scroll lock",
     "vue scroll lock"
   ],
-  "version": "1.0.26",
+  "version": "1.0.27",
   "description": "",
   "main": "dist/vue-zoom-scroll.umd.js",
   "module": "dist/vue-zoom-scroll.esm.js",
