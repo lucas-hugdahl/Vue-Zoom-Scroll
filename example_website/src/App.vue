@@ -4,7 +4,7 @@
     <link href="./assets/blackboard.css" rel="stylesheet" type="text/css">
 
     <b-row class="justify-content-center px-3">
-        <b-col cols="4">
+        <b-col cols="10" lg="4">
             <img alt="Vue logo" src="./assets/logo.png">
             <h1 class="pt-5"><strong>Vue Zoom Scroll</strong></h1>
             <p class="py-3">Vue Zoom Scroll is an awesome lightweight scroll to zoom component that is easy to drop into any project. This plugin makes it easy to add a fun interactive element to any project.</p>
@@ -14,9 +14,9 @@
 
     <ZoomScroll v-on:stateChange="onZoomChange($event)">
         <b-row class="h-100 justify-content-center align-items-center">
-            <b-col cols="4">
+            <b-col cols="10" lg="4">
                 <p class="code-block text-left">
-                    <span class="d-block c3">//v-on:stateChange="yourFunction($event)"</span>
+                    <span class="c3 d-none d-lg-block">//v-on:stateChange="yourFunction($event)"</span>
                     <span class="d-block">{</span>
                     <span class="d-block ml-4">
                         <span class="c1">isInViewport: </span> 
