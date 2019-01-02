@@ -2,8 +2,9 @@
 
 Vue Zoom Scroll is an awesome lightweight scroll to zoom component that is easy to drop into any project. This plugin makes it easy to add a fun interactive element to any project. 
 
-Inspired by the zooming out interaction found [here.](https://portal.facebook.com/)  
+View an example and full documentation [here.](https://lucas-hugdahl.github.io/Vue-Zoom-Scroll/)  
 
+View the Github repo [here.](https://github.com/lucas-hugdahl/Vue-Zoom-Scroll) 
 
 # Tested In
 Chrome, Firefox, Safari, Edge
