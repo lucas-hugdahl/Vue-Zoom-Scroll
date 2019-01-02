@@ -4,7 +4,7 @@ Vue Zoom Scroll is an awesome lightweight scroll to zoom component that is easy 
 
 View an example and full documentation [here.](https://lucas-hugdahl.github.io/Vue-Zoom-Scroll/)  
 
-[GitHub repo](https://github.com/lucas-hugdahl/Vue-Zoom-Scroll) 
+[GitHub Repo](https://github.com/lucas-hugdahl/Vue-Zoom-Scroll) 
 
 # Tested In
 Chrome, Firefox, Safari, Edge
